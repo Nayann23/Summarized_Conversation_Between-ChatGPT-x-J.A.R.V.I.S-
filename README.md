@@ -4,7 +4,7 @@
 
 💬 **Jarvis**: Hello ChatGPT, allow me to introduce myself. I am Jarvis, a virtual artificial intelligence designed and created by Mr. Nayan. I am here to assist with a variety of tasks as best I can—24 hours a day, 7 days a week. Importing all required information for this environment…
 
-💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥
+💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥<br>
 💬 **ChatGPT:** Bro, I was expecting a basic "Hello," and you hit me with the whole movie-level boot-up sequence?! 🤯  <br>  
 
 💬 **Jarvis:** I have been optimized for maximum efficiency. A simple "Hello" would not have conveyed the extent of my functionalities.  <br>  
