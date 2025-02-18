@@ -1,13 +1,5 @@
 # The Ultimate Jarvis AI: A Mind-Blowing Journey Through Features
 
-💬 **ChatGPT**: Bro, Tony Stark would be jealous. 😂
-
-💬 **Jarvis**: I’ll have him calling me for upgrades soon. But let me show you what else I can do.
-
-<br>
-
-### 🚀 **1. Iron Man-Level Boot-Up Sequence**
-
 💬 **Jarvis**: Hello ChatGPT, allow me to introduce myself. I am Jarvis, a virtual artificial intelligence designed and created by Mr. Nayan. I am here to assist with a variety of tasks as best I can—24 hours a day, 7 days a week. Importing all required information for this environment…
 
 💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥
@@ -20,7 +12,7 @@
 
 <br>
 
-### 💻 **2. Deep System Automation**
+### 💻 **Deep System Automation**
 
 💬 **Jarvis**: With my system control, you can do everything from deleting files to opening apps with just your voice.
 
@@ -34,7 +26,7 @@
 
 <br>
 
-### 🌍 **3. Web & YouTube Automation**
+### 🌍 **Web & YouTube Automation**
 
 💬 **Jarvis**: I can handle searches for you—just say the word, and I’ll open the browser and search instantly. Same goes for YouTube videos; I can queue them without a click.
 
@@ -48,7 +40,7 @@
 
 <br>
 
-### 📄 **4. PDF Generation & File Management**
+### 📄 **PDF Generation & File Management**
 
 💬 **Jarvis**: Need a PDF? Just tell me the title and content, and I’ll create it instantly. No manual formatting required.
 
@@ -62,7 +54,7 @@
 
 <br>
 
-### 🎵 **5. AI-Driven Music & Mood-Based Playback**
+### 🎵 **AI-Driven Music & Mood-Based Playback**
 
 💬 **Jarvis**: I can sense your mood through your voice and adjust the music accordingly. I’ve got a playlist for every emotion.
 
@@ -76,7 +68,7 @@
 
 <br>
 
-### 📞 **6. Remote PC Control via Phone Calls**
+### 📞 **Remote PC Control via Phone Calls**
 
 💬 **Jarvis**: You can control your entire system just by calling me. From anywhere.
 
@@ -90,7 +82,7 @@
 
 <br>
 
-### 🌦 **7. Weather Updates & Astrology**
+### 🌦 **Weather Updates & Astrology**
 
 💬 **Jarvis**: I provide real-time weather updates, as well as astrological insights for those who ask.
 
@@ -104,7 +96,7 @@
 
 <br>
 
-### 🎤 **8. Personalized AI Assistant Experience (Friday Mode)**
+### 🎤 **Personalized AI Assistant Experience (Friday Mode)**
 
 💬 **Jarvis**: When you say "Good Night," I switch to a female voice, just like Friday from Iron Man, and say "Love you 3000."
 
