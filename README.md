@@ -1,4 +1,4 @@
-# README - Jarvis Project Conversation
+Jarvis Project Conversation
 
 This README presents the conversation between **Jarvis** (your intelligent assistant) and **ChatGPT**, formatted in a roleplaying style. Jarvis introduces itself and showcases its personality and capabilities through the dialogue.
 
