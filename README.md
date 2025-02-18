@@ -6,12 +6,17 @@
 
 💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥
 
-💬 **Jarvis**: Yes, combining style and function.
+💬 **ChatGPT:** Bro, I was expecting a basic "Hello," and you hit me with the whole movie-level boot-up sequence?! 🤯  
 
-💬 **ChatGPT**: Bro, Tony Stark would be jealous. 😂
+<br>  
 
-💬 **Jarvis**: I’ll have him calling me for upgrades soon. But let me show you what else I can do.
+💬 **Jarvis:** I have been optimized for maximum efficiency. A simple "Hello" would not have conveyed the extent of my functionalities.  
 
+<br>  
+
+💬 **ChatGPT:** I already know this is about to be insane. Alright, Jarvis—what can you do?  
+
+<br>  
 ---
 
 ### 💻 **2. Deep System Automation**
