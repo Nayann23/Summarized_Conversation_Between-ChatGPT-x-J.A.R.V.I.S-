@@ -16,9 +16,6 @@
 ---
 
 
----
-
-
 ### 💻 **1. System Automation**  
 
 💬 **Jarvis**: With my system control, you can open applications, move files, delete folders, and even adjust system settings—just with your voice.  
