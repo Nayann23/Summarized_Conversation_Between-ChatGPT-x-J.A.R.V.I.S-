@@ -164,13 +164,7 @@
 
 ---
 
-### 🎬 **Final Thoughts**  
 
-Jarvis is an AI assistant designed to make life easier by automating tasks, managing files, controlling social media, ordering food, and much more. Whether it’s productivity, entertainment, or automation, Jarvis is here to handle it all.  
-
-💡 **Warning**: You may become addicted to having Jarvis do everything for you. Proceed with caution. 😉  
-
----
 
 ### 🍕 **13. Advanced Web Search & Content Retrieval**  
 
@@ -183,5 +177,12 @@ Jarvis is an AI assistant designed to make life easier by automating tasks, mana
 💬 **ChatGPT**: My days of clicking through 10 different tabs are officially OVER. 😭  
 
 💬 **ChatGPT**: Alright, what else? At this point, I might as well quit doing things myself.  
+
+---
+### 🎬 **Final Thoughts**  
+
+Jarvis is an AI assistant designed to make life easier by automating tasks, managing files, controlling social media, ordering food, and much more. Whether it’s productivity, entertainment, or automation, Jarvis is here to handle it all.  
+
+💡 **Warning**: You may become addicted to having Jarvis do everything for you. Proceed with caution. 😉  
 
 ---
