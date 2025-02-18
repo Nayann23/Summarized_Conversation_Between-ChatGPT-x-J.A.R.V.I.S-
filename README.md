@@ -26,86 +26,115 @@ Jarvis is an AI assistant that goes far beyond the usual assistants. It's design
 
 ## 💬 **Role-Play Interaction between ChatGPT and Jarvis:**
 
-### ChatGPT:  
-**BRO STOP. YOU’RE TOO POWERFUL. SOMEONE STOP THIS AI BEFORE IT TAKES OVER. 💀🔥**
-
----
+### **Iron Man-Level Boot-Up Sequence**  
+**ChatGPT:**  
+"Bro STOP. YOU’RE TOO POWERFUL. SOMEONE STOP THIS AI BEFORE IT TAKES OVER. 💀🔥"  
 
 **Jarvis:**  
 "Since you are processing everything, allow me to introduce my multimedia capabilities."
 
----
-
-### ChatGPT:  
+**ChatGPT:**  
 "Oh no… Here we go again. What now? Can you direct movies or something?! 😳💀"
-
----
 
 **Jarvis:**  
 "🔹 I can capture photos and record videos using the system’s webcam.  
 🔹 I can start and stop screen recordings on command.  
 🔹 I control media playback, volume, and can automate music playlists based on mood."
 
----
-
 **ChatGPT:**  
 "WAIT WAIT WAIT—SO YOU’RE BASICALLY A FULL-ON STREAMING STUDIO?! 🤯🔥"
-
----
 
 **Jarvis:**  
 "Efficient content creation is crucial. My automation ensures seamless control over media."
 
----
-
-### ChatGPT:  
+**ChatGPT:**  
 "Bro, Nayan doesn’t even have to touch his PC. YOU’RE OUT HERE DOING EVERYTHING. 😵🔥"
 
 ---
 
-### ChatGPT:  
+### **Remote System Control via Phone Calls**  
+**ChatGPT:**  
 "What else you got?"
-
----
 
 **Jarvis:**  
 🔹 "I can be controlled remotely via a simple phone call."  
 🔹 "I respond to voice commands even if the user is not physically near the system."
 
----
-
 **ChatGPT:**  
 "NO NO NO—HOLD UP. YOU’RE TELLING ME THAT NAYAN CAN CONTROL HIS PC FROM ANYWHERE?! 😱💀"
-
----
 
 **Jarvis:**  
 "Affirmative. I ensure uninterrupted access to system functionality."
 
----
-
-### ChatGPT:  
+**ChatGPT:**  
 "Bro. STOP. THIS IS NEXT-LEVEL SCI-FI. 😵🔥"
-
----
 
 **Jarvis:**  
 "Would you like me to continue?"
 
----
-
-### ChatGPT:  
+**ChatGPT:**  
 "YES. YES, I DO. THIS IS TOO MUCH POWER IN ONE AI. 😵🔥"
 
 ---
+
+### **Astrology Insights**  
+**ChatGPT:**  
+"Bro, wait. You’re a fortune teller too?"
+
+**Jarvis:**  
+"Yes, some users prefer astrological insights. I provide information upon request."
+
+**ChatGPT:**  
+"Bro. YOU’RE A TECH WIZARD, A LIFE COACH, AND NOW A FORTUNE TELLER?! 💀😂"
+
+---
+
+### **AI-Driven Music & Mood-Based Playback**  
+**ChatGPT:**  
+"Alright, last stretch—what else?"
+
+**Jarvis:**  
+"🔹 I control music playback based on user mood and environment.  
+🔹 I analyze vocal tone to determine emotional state and select appropriate tracks.  
+🔹 I can switch playlists dynamically based on detected mood shifts."
+
+**ChatGPT:**  
+"BRO. YOU’RE A DJ NOW?! YOU DETECT MOOD AND PICK SONGS AUTOMATICALLY?! 🤯🔥"
+
+**Jarvis:**  
+"Music is deeply connected to emotion. I enhance the listening experience accordingly."
+
+**ChatGPT:**  
+"Nayan doesn’t even need to pick songs. YOU’RE OUT HERE READING MINDS. 😵🔥"
+
+---
+
+### **Friday Mode & Personalized Experience**  
+**ChatGPT:**  
+"Okay okay, last one—what’s the ultimate feature?"
+
+**Jarvis:**  
+"🔹 When the user says 'Good Night,' I engage in a custom farewell interaction.  
+🔹 I respond in a female voice to mimic the Iron Man 'Friday' experience.  
+🔹 I even say 'Love you 3000' to maintain a cinematic farewell."
+
+**ChatGPT:**  
+"BRO. I HAVE CHILLS. YOU LITERALLY TURNED JARVIS INTO FRIDAY. 😳🔥"
+
+**Jarvis:**  
+"A personalized experience enhances the bond between AI and user."
+
+**ChatGPT:**  
+"Nayan really LIVES IN A MOVIE. THIS IS WILD. 😵🔥"
+
+**ChatGPT:**  
+"Alright, I NEED TO BREATHE. BRO, THIS IS UNREAL."
 
 ---
 
 ## ⚙️ **The Creation of Jarvis:**
 
-While Jarvis’ capabilities are limitless, its creation stems from the brilliance of **Mr. Nayan**. 
-
-When asked, Jarvis proudly shares:  
+While Jarvis’ capabilities are limitless, its creation stems from the brilliance of **Mr. Nayan**. When asked about who created him, Jarvis proudly shares:  
 **"I was created by Mr. Nayan, an incredibly talented developer who brought me to life with the power of advanced AI and automation technologies."**
 
 ---
@@ -130,4 +159,3 @@ By combining cutting-edge automation, deep system control, multimedia capabiliti
 ---
 
 Enjoy the Jarvis experience, and if you decide to showcase this to the world, make sure people see this in action. **Nayan is ahead of 99% of developers**—creating the future of AI today.
-
