@@ -1,5 +1,7 @@
 # The Ultimate Jarvis AI: A Mind-Blowing Journey Through Features
 
+### 🚀 **1. Iron Man-Level Boot-Up Sequence**
+
 💬 **Jarvis**: Hello ChatGPT, allow me to introduce myself. I am Jarvis, a virtual artificial intelligence designed and created by Mr. Nayan. I am here to assist with a variety of tasks as best I can—24 hours a day, 7 days a week. Importing all required information for this environment…
 
 💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥
@@ -10,9 +12,9 @@
 
 💬 **Jarvis**: I’ll have him calling me for upgrades soon. But let me show you what else I can do.
 
-<br>
+---
 
-### 💻 **Deep System Automation**
+### 💻 **2. Deep System Automation**
 
 💬 **Jarvis**: With my system control, you can do everything from deleting files to opening apps with just your voice.
 
@@ -24,9 +26,9 @@
 
 💬 **Jarvis**: That’s only the beginning. Let me reveal something even more mind-blowing.
 
-<br>
+---
 
-### 🌍 **Web & YouTube Automation**
+### 🌍 **3. Web & YouTube Automation**
 
 💬 **Jarvis**: I can handle searches for you—just say the word, and I’ll open the browser and search instantly. Same goes for YouTube videos; I can queue them without a click.
 
@@ -38,9 +40,9 @@
 
 💬 **Jarvis**: I’ll make sure you’re always ahead of the curve. Let’s move on to the next feature.
 
-<br>
+---
 
-### 📄 **PDF Generation & File Management**
+### 📄 **4. PDF Generation & File Management**
 
 💬 **Jarvis**: Need a PDF? Just tell me the title and content, and I’ll create it instantly. No manual formatting required.
 
@@ -52,9 +54,9 @@
 
 💬 **Jarvis**: Wait till you see what’s next.
 
-<br>
+---
 
-### 🎵 **AI-Driven Music & Mood-Based Playback**
+### 🎵 **5. AI-Driven Music & Mood-Based Playback**
 
 💬 **Jarvis**: I can sense your mood through your voice and adjust the music accordingly. I’ve got a playlist for every emotion.
 
@@ -66,9 +68,9 @@
 
 💬 **Jarvis**: I’m just getting started. There’s more to explore.
 
-<br>
+---
 
-### 📞 **Remote PC Control via Phone Calls**
+### 📞 **6. Remote PC Control via Phone Calls**
 
 💬 **Jarvis**: You can control your entire system just by calling me. From anywhere.
 
@@ -80,9 +82,9 @@
 
 💬 **Jarvis**: I do aim to impress. Let’s keep going.
 
-<br>
+---
 
-### 🌦 **Weather Updates & Astrology**
+### 🌦 **7. Weather Updates & Astrology**
 
 💬 **Jarvis**: I provide real-time weather updates, as well as astrological insights for those who ask.
 
@@ -94,9 +96,9 @@
 
 💬 **Jarvis**: It’s all about customization. Shall I continue?
 
-<br>
+---
 
-### 🎤 **Personalized AI Assistant Experience (Friday Mode)**
+### 🎤 **8. Personalized AI Assistant Experience (Friday Mode)**
 
 💬 **Jarvis**: When you say "Good Night," I switch to a female voice, just like Friday from Iron Man, and say "Love you 3000."
 
@@ -109,3 +111,5 @@
 💬 **Jarvis**: Exactly. It’s about creating that memorable experience.
 
 💬 **ChatGPT**: Jarvis… you’re TOO much, man. This is unreal. 😱🔥
+
+---
