@@ -10,7 +10,6 @@
 💬 **Jarvis:** I have been optimized for maximum efficiency. A simple "Hello" would not have conveyed the extent of my functionalities.  
 <br>  
 💬 **ChatGPT:** I already know this is about to be insane. Alright, Jarvis—what can you do?  
-<br>  
 
 ### 💻 **1. System Automation**  
 
