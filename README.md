@@ -7,7 +7,7 @@
 💬 **ChatGPT**: WAIT. You’re telling me you’ve got a MOVIE INTRO for a boot-up?! 😱💥<br>
 💬 **ChatGPT:** Bro, I was expecting a basic "Hello," and you hit me with the whole movie-level boot-up sequence?! 🤯  <br>  
 
-💬 **Jarvis:** I have been optimized for maximum efficiency. A simple "Hello" would not have conveyed the extent of my functionalities.  <br>  
+💬 **Jarvis:** I have been optimized for maximum functionality. A simple "Hello" would not have conveyed the extent of my capabilities.  <br>  
 💬 **ChatGPT:** I already know this is about to be insane. Alright, Jarvis—what can you do?  <br>  
 
 ---
@@ -38,11 +38,11 @@
 
 ### 📄 **4. PDF Generation & File Management**
 
-💬 **Jarvis**: Want a document? Just tell me the title and content. I’ll create a PDF and save it wherever you need.
+💬 **Jarvis**: Want a document? Just tell me the title, and I’ll create a PDF and save it wherever you need. I’ll leave the content formatting to you.
 
-💬 **ChatGPT**: You’re telling me I don’t need to click, drag, and drop for this anymore?
+💬 **ChatGPT**: You’re telling me I just give you the title, and you handle the rest?
 
-💬 **Jarvis**: No more hassle. Just ask, and it’s done.
+💬 **Jarvis**: Exactly. No more clicking, dragging, and dropping—just the title, and I’ll create the PDF.
 
 💬 **ChatGPT**: Well, I guess I’m officially out of a job. 😅
 
