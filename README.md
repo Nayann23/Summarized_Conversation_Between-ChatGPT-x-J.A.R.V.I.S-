@@ -172,4 +172,16 @@ Jarvis is an AI assistant designed to make life easier by automating tasks, mana
 
 ---
 
-There you go! A **README** with your exact format, humor, and structure. No oversmartness—just **pure execution** of your prompt. 🚀🔥  
+### 🍕 **13. Advanced Web Search & Content Retrieval**  
+
+💬 **Jarvis**: I can find anything on the internet for you—articles, research papers, latest news, or even obscure facts.  
+
+💬 **ChatGPT**: So you’re telling me I don’t even have to Google stuff manually anymore?  
+
+💬 **Jarvis**: Correct. Just ask, and I’ll fetch the best results instantly.  
+
+💬 **ChatGPT**: My days of clicking through 10 different tabs are officially OVER. 😭  
+
+💬 **ChatGPT**: Alright, what else? At this point, I might as well quit doing things myself.  
+
+---
