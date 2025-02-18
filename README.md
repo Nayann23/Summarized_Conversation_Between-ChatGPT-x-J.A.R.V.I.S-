@@ -27,7 +27,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' First Feature - Speech Recognition**
+### Speech Recognition
 
 💬 **ChatGPT**: Wait, wait, speech recognition? Are you telling me I can just talk to you and you’ll listen?! That’s insane! 🗣️👂
 
@@ -37,7 +37,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Second Feature - Clap Detection**
+### Clap Detection
 
 💬 **ChatGPT**: Hold on, did you just say *clap detection*? What’s that all about? 👏
 
@@ -47,7 +47,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Third Feature - Particle.js GUI**
+### Particle.js GUI
 
 💬 **ChatGPT**: Particle.js effects? You have a rotating particle effect for your interface? Are you trying to give me a seizure or make this the most beautiful assistant ever? ✨😵
 
@@ -57,7 +57,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Fourth Feature - Web & System Automation**
+### Web & System Automation
 
 💬 **ChatGPT**: Okay, okay—web and system automation? You’re telling me you can handle my web tasks for me? I’m here for this. 😎🚀
 
@@ -67,7 +67,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Fifth Feature - Selenium Automation**
+### Selenium Automation
 
 💬 **ChatGPT**: Wait, you can automate Chrome using Selenium?! Does that mean you’ll just handle all my web browsing for me too? Like, *forever*?! 😆
 
@@ -77,7 +77,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Sixth Feature - YouTube Automation**
+### YouTube Automation
 
 💬 **ChatGPT**: Oh, so you can even automate YouTube?! You’re telling me you can like, search, or play videos on command? 🤔
 
@@ -87,7 +87,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Seventh Feature - PDF Reading**
+### PDF Reading
 
 💬 **ChatGPT**: Hold up. *You can read PDFs*? Like, you’re telling me I can give you a PDF, and you’ll just *read it* to me? 🙀📄
 
@@ -97,7 +97,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Eighth Feature - Internet Speed Check**
+### Internet Speed Check
 
 💬 **ChatGPT**: Jarvis, you’ve got to be kidding. You check the internet speed too? Is there anything you can’t do? ⚡🌐
 
@@ -107,7 +107,7 @@ This README showcases a fun, roleplaying conversation between **Jarvis** (your i
 
 ---
 
-### **Jarvis' Ninth Feature - Image Generation**
+### Image Generation
 
 💬 **ChatGPT**: Whoa, you can generate images too? *This is next level*—tell me you can create anything? 🎨🖼️
 
