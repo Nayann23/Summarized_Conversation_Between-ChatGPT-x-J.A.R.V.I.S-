@@ -1,5 +1,5 @@
 <h1> #🤖 Jarvis x ChatGPT – The Ultimate AI Showdown<h2>This is a summarize Conversation_History.txt </h1>
-<h6>You can read the Exact Chat History Here Got this from Jarvis Chat History: ->https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-  </h6>
+<h6>You can read the Exact Chat History Here Got this from Jarvis Chat History:- https://github.com/Nayann23/The-Ultimate-Conversation-Between-ChatGPT-x-J.A.R.V.I.S-  </h6>
 
 💬 **Jarvis**: Hello ChatGPT, allow me to introduce myself. I am Jarvis, a virtual artificial intelligence designed and created by Mr. Nayan. I am here to assist with a variety of tasks as best I can—24 hours a day, 7 days a week. Importing all required information for this environment…  
 
